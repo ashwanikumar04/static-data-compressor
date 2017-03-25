@@ -1,17 +1,13 @@
 
-
-# static-data-compressor
-
-
 <!-- TOC -->
 
-- [static-data-compressor](#static-data-compressor)
-        - [Install](#install)
-        - [Command to create locale zip](#command-to-create-locale-zip)
+- [Summary](#summary)
+- [Install](#install)
+- [Command to compress](#command-to-compress)
 
 <!-- /TOC -->
 
-
+### Summary
 
 Project to compress static resources like html, css, js etc
 
@@ -21,7 +17,7 @@ Project to compress static resources like html, css, js etc
     npm install
 ```
     
-### Command to create locale zip
+### Command to compress
 
 ```
     gulp --dest=temp --src=src
