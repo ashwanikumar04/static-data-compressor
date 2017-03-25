@@ -1,0 +1,43 @@
+{
+  "name": "static-data-compressor",
+  "version": "1.0.0",
+  "description": "Project to compress static resources",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-change": "^1.0.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.8",
+    "gulp-clean-css": "^3.0.4",
+    "run-sequence": "^1.2.2",
+    "gulp-copy": "^1.0.0",
+    "gulp-json-minify": "^1.0.7",
+    "yargs": "^6.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwanikumar04/static-data-compressor.git"
+  },
+  "keywords": [
+    "gulp",
+    "nodejs",
+    "html",
+    "css",
+    "js",
+    "json"
+  ],
+  "author": "Ashwani Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwanikumar04/static-data-compressor/issues"
+  },
+  "homepage": "https://github.com/ashwanikumar04/static-data-compressor#readme"
+}
